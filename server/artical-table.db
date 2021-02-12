@@ -1,0 +1,6 @@
+CREATE TABLE artical_table(  
+    id int NOT NULL AUTO_INCREMENT,  
+    Image varchar(255) NOT NULL,  
+    ImageDesc varchar(255) NOT NULL,    
+    PRIMARY KEY (id)  
+); 
